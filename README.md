@@ -7,7 +7,7 @@ Version : 1.0.0
 4. CSS
 5. JS
 6. BOOTSTRAP 5
-7. 
+   
 # Introduction :
 A School Management System (SMS) is a comprehensive platform designed to streamline the administrative tasks of educational institutions. It serves as a centralized hub for managing student records, teacher information, course schedules, grades, and various other aspects of school administration.
 
